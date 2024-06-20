@@ -1,1 +1,1 @@
-# noreligion.github.io
+# [adarkroom](/adarkroom)

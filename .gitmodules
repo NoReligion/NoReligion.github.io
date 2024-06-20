@@ -1,0 +1,3 @@
+[submodule "adarkroom"]
+	path = adarkroom
+	url = https://github.com/NoReligion/adarkroom.git
